@@ -1,0 +1,16 @@
+{
+  "name": "translateandcontext",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "ffmpeg": "^0.0.4",
+    "openai": "^3.3.0",
+    "whisper-node": "^0.2.12"
+  }
+}
